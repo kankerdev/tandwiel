@@ -1,0 +1,13 @@
+name = "Disable Ad Astra Oil Wells"
+filename = "oil_well_remove_1.20.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuuIRUEF/versions/jvzURrdq/oil_well_remove_1.20.x.zip"
+hash-format = "sha1"
+hash = "68bd51b862304a4d78591e52d0cb6102d6b6614f"
+
+[update]
+[update.modrinth]
+mod-id = "EuuIRUEF"
+version = "jvzURrdq"

@@ -1,0 +1,13 @@
+name = "Garnished KubeJS"
+filename = "garnished_kubejs-0.1.1+1.20.1-neoforged.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rspAgyfe/versions/DCJYzO5l/garnished_kubejs-0.1.1%2B1.20.1-neoforged.jar"
+hash-format = "sha1"
+hash = "7d6c2360230d74bed37d3d535c09f01735cf09a2"
+
+[update]
+[update.modrinth]
+mod-id = "rspAgyfe"
+version = "DCJYzO5l"

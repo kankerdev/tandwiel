@@ -1,0 +1,13 @@
+name = "Thermal And Space"
+filename = "Thermal And Space-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBWXLTu7/versions/1yDOC4z1/Thermal%20And%20Space-1.20.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "b58f15c8b4f2bd29d35edd0832db95f63abcedef"
+
+[update]
+[update.modrinth]
+mod-id = "xBWXLTu7"
+version = "1yDOC4z1"
