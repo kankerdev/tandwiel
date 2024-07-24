@@ -48,6 +48,11 @@ hash = "e794a0240ad915c2c8e43a04e6dfded947bf11f3895533dce2e6114cb250f373"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "03fa352715705a0354e049b4fe0b3fab7772476134cd3393e343811c2862d13b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -173,6 +178,16 @@ hash = "4aa0941bb8d59da53d3791e5e83284097c2b73a78090b9efd3abda4b989eed15"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "f55e5e7759f12529a791563d10c9cebdd6148c9a79c98204980940420563f8a0"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "a369362b595e13c03b148dd74becd8d7deebc3a7bdf85a5e2b018b8cef75a8a8"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "05b94fbd922d4a899223e4a6b2140bf88f831533d48d5bf87ca69f5e3378b56e"
 metafile = true
@@ -253,6 +268,16 @@ hash = "7641de036f97e5ffa27fb065ed439f5b0b6df11d3091db9b54628c185dc86927"
 metafile = true
 
 [[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "f2c6b9361c744223cdadd984ec69e6f22cb40013d7f7ed9644b62268b3116bf6"
+metafile = true
+
+[[files]]
+file = "mods/create-station-decor.pw.toml"
+hash = "2344018c16dd2038c283f7d5a46acab6bcb503f19f6333ec8a312ea05532a572"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
@@ -275,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
 hash = "8a1defb5ffaadf6ff21f8e2409453503f43c3e15dcca6b69a61a3b07c2aa8547"
+metafile = true
+
+[[files]]
+file = "mods/create-trainutilities.pw.toml"
+hash = "57f873ea312ae2834746fc0c891c83d3b93a6dc0383c0556185b9228ba6c5710"
 metafile = true
 
 [[files]]
@@ -305,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/createaddoncompatibility.pw.toml"
 hash = "ae1268585d8951f83f1086b6bf6ef41f248b338bdabec8e4362cc34a3b74e9c5"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-delight.pw.toml"
+hash = "9b7eadca4b93367be0465c5b662be8fa0f89d9b6a1cbf4d06add542f84cd4978"
 metafile = true
 
 [[files]]
@@ -373,6 +408,16 @@ hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
 metafile = true
 
 [[files]]
+file = "mods/delightful-burgers.pw.toml"
+hash = "d875781f8174b9d7de328f3c4a0aba3405540b9cf8c949141d5b6d5bb855a3c9"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "87048494bc799171137b0d73157741e8b0f51d79905b67a63d40fe1beb2e9185"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
@@ -425,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
 metafile = true
 
 [[files]]
@@ -520,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "3b81ebee6bc906cafb94a30b77583b865c1a88ad4bdfb0e9fb3555c9577f136a"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
@@ -638,13 +693,38 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
+metafile = true
+
+[[files]]
+file = "mods/mmlib.pw.toml"
+hash = "4db02b8f5c1486d6cad7a8fa30941ce9665b82a9965faf11e910b335716249d2"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
 metafile = true
 
 [[files]]
+file = "mods/modern-train-parts.pw.toml"
+hash = "06a4aed505751728a069595baa11549df5526b1c4994e5509d4fd3c4375cb074"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "376f05e19887fd33e28812004f89cd43716a0a0e0a74c59f71351fc16a108246"
 metafile = true
 
 [[files]]
@@ -655,6 +735,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "8d93d1db086d63d10edb0a3ad6926aeb6e6aab8985ff3a7eac1ec313ebce4420"
 metafile = true
 
 [[files]]
@@ -670,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
+file = "mods/protection-pixel.pw.toml"
+hash = "36e121a8bc2e3eda2f81ec633f89d158f5874dfd47c71c0d8867bad61e8cba28"
 metafile = true
 
 [[files]]
@@ -738,6 +833,11 @@ hash = "e1caca0263b55a7d569ffa3db7c760001c489ac8710808e6b55a05400536455b"
 metafile = true
 
 [[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "163c22d781035ce2c9058e3100fd374848f227daa5923d7e08b145e9b219b791"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
 metafile = true
@@ -760,6 +860,31 @@ metafile = true
 [[files]]
 file = "mods/specialised-cells.pw.toml"
 hash = "fc39121324f45b54a3c13a190d68f5aadb2de17f601535c6d854f13b5d790377"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "5afb6eedae07db63feb74aa660c8b8e28840e01517a08c90dd83cbd27b53d67d"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers-create-compat.pw.toml"
+hash = "b7c0559cde5dcd60f44503542544a12994a98269aa151041072067f560fa0bf8"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
 metafile = true
 
 [[files]]
@@ -795,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "b42620e140806002171a15aba47135e0279d9012ac14d144cc659508b943e91f"
+metafile = true
+
+[[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "1ace8900da31fd0e73918a01e9f8414df37607f5a85b26f754756dcbcf67ce86"
 metafile = true
 
 [[files]]

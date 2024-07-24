@@ -1,0 +1,13 @@
+name = "Create: Station Decor"
+filename = "createstation_decor-0.1.1.1.20.1jar.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bevlcP1T/versions/1yMl5BaB/createstation_decor-0.1.1.1.20.1jar.jar"
+hash-format = "sha1"
+hash = "29e0da17ba88072111749dc399ab458d2d784a13"
+
+[update]
+[update.modrinth]
+mod-id = "bevlcP1T"
+version = "1yMl5BaB"
