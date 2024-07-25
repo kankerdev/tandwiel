@@ -765,6 +765,16 @@ hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "8d93d1db086d63d10edb0a3ad6926aeb6e6aab8985ff3a7eac1ec313ebce4420"
 metafile = true
