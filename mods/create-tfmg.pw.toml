@@ -3,11 +3,11 @@ filename = "tfmg-0.9.0d-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/USgVjXsk/versions/vUv1R1HL/tfmg-0.9.0d-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/USgVjXsk/versions/mz1cbiFh/tfmg-0.9.0d-1.20.1.jar"
 hash-format = "sha1"
-hash = "a3031fc602e4cd1be820c84645daa49038345a54"
+hash = "b643d7c4095a250433471a5ddd17190e81f1bc49"
 
 [update]
 [update.modrinth]
 mod-id = "USgVjXsk"
-version = "vUv1R1HL"
+version = "mz1cbiFh"
