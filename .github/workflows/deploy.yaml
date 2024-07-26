@@ -1,0 +1,16 @@
+on: 
+  push: { branches: [ master ] }
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Deploy to infrastructure
+    runs-on: ubuntu-20.04
+
+    steps:
+      - run: |
+          install -m 600 -D /dev/null ~/.ssh/id_ed25519
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
+      - run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git checkout master && git pull && exit"
+      - run: rm -rf ~/.ssh
