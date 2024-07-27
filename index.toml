@@ -495,16 +495,6 @@ hash = "4fafe23e480af1aebb9c1b8aa4887bf7c7080723d2374550e1183aab85476cd0"
 metafile = true
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "dcb51243f41c148905d2bf035e0225add5b28830f6fac279324db93508e936b4"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
-metafile = true
-
-[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "74146465d158af800f797dd8470f971c6c2b3f8bfdca3ab49bcaf224a61f546b"
 metafile = true
