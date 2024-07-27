@@ -110,11 +110,6 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "b6caef8fb6f8edd11fbb6d26a532e3fafa4ee50fd0ce93c7b4a75b7f520060b3"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
@@ -487,6 +482,16 @@ metafile = true
 [[files]]
 file = "mods/fast-portals.pw.toml"
 hash = "4fafe23e480af1aebb9c1b8aa4887bf7c7080723d2374550e1183aab85476cd0"
+metafile = true
+
+[[files]]
+file = "mods/fastboot.pw.toml"
+hash = "dcb51243f41c148905d2bf035e0225add5b28830f6fac279324db93508e936b4"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
 metafile = true
 
 [[files]]
