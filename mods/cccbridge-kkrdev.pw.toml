@@ -1,0 +1,7 @@
+name = "cccbridge-kkrdev"
+filename = "cccbridge-1.6.3-minForge-43.1.0-on-1.20.1-for-neoforge-compat.jar"
+
+[download]
+url = "https://packserve.kanker.dev/mods/neoforge/cccbridge-1.6.3-minForge-43.1.0-on-1.20.1-for-neoforge-compat.jar"
+hash-format = "sha256"
+hash = "c850678b2e3c0f7d25b4a51c97fdd293e29bb328dc02a8cc81317e75ed05e6b4"

@@ -130,8 +130,8 @@ hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "86934e48e50a5e92cf82103f60893c7028436c1112a4e1ef92a68b59ca68814a"
+file = "mods/cccbridge-kkrdev.pw.toml"
+hash = "d371ff8d81450592f4a8fbeeaf43c99d6795b00f10af6f0dc7d88e645a74ab6c"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-garnished.pw.toml"
-hash = "df184e78d07f0908fa7ed32de5d81ff1c5cd3712cd4c5eb5e285b387beb56048"
+hash = "1e2a6f829135ac4f01c1ecc1a143577038508bc8f4826cb09ea96a3a75a0ab99"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
+hash = "e5755503a6eabcdca52ad30c9badadf8427c51115a4d6c84defb7661f0a479cb"
 metafile = true
 
 [[files]]
@@ -490,6 +490,11 @@ hash = "96b4f076531d93845801037766543ef06c7c07cb631f7f24db06c2a3296bfaa0"
 metafile = true
 
 [[files]]
+file = "mods/fast-portals.pw.toml"
+hash = "4fafe23e480af1aebb9c1b8aa4887bf7c7080723d2374550e1183aab85476cd0"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "dcb51243f41c148905d2bf035e0225add5b28830f6fac279324db93508e936b4"
 metafile = true
@@ -526,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "75c061ce78d7d3f818d98bb94f9a68948aa3a1a612f3c26ade989b60b36b9657"
+hash = "a4a0adb85269712ade2399503b6365b87847cac8f34f674c535564bda184bcce"
 metafile = true
 
 [[files]]
@@ -546,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/garnished-kubejs.pw.toml"
-hash = "9cb4f1ac861f1e3f0bae8082e972d7759673381d6c6351806bc1aedd2e5450fe"
+hash = "fb795c0bae88952074322818ce96433cd50f374bcd3a9e4ddb660c93208ee0e7"
 metafile = true
 
 [[files]]
@@ -601,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "33b350924dfef6b82aa8bd2610b535653e5066cd13b3b9667a071fc50c9f2755"
+hash = "3514e10db21d24903c95dd1f551b91ae77a957400ae788393aa8100f2f7f88d0"
 metafile = true
 
 [[files]]
@@ -721,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
+hash = "1c99abbea7021a74d4fc8393b2dfe83516dd91a460fa2644236a5dda77eeab49"
 metafile = true
 
 [[files]]
@@ -806,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
+hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
 metafile = true
 
 [[files]]
@@ -911,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
+hash = "24c21c3b8c88c8441bf5997aad9f81be66b82b3c77ff00a02cd8717dc26c2754"
 metafile = true
 
 [[files]]
