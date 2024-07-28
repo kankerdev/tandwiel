@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/deploy.yaml"
+hash = "13d3e650010493cf47203361606d5d7d476d68e8d0337c3dd1470d839d5ac29a"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "28ed2dbff00fd9b73ab942e36a3cb050fcc6eba3f3ed4e8a216640a4f235f476"
 
@@ -11,6 +15,10 @@ hash = "94393e50818ee0b56c9f33b0e2eaaa53f2623a81c63aa3bfb8ba6bf3bdb32530"
 [[files]]
 file = "config/lmft.json"
 hash = "1a4f2bb34ce8bd229d523a4fc18eca7e7816fc16e43e76ede790ac6370682797"
+
+[[files]]
+file = "config/memorysettings.json"
+hash = "02eea50096b1089158dcab8be738a166dabc5c8e44ca029099da9d8f290ef23a"
 
 [[files]]
 file = "config/paxi/datapacks/disable-ad-astra-oil-wells.pw.toml"
