@@ -5,6 +5,10 @@ file = ".github/workflows/deploy.yaml"
 hash = "13d3e650010493cf47203361606d5d7d476d68e8d0337c3dd1470d839d5ac29a"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "5e8063bc20d6652022fbeee40031874ea7d44971fe397aee92de678c75a0ac78"
+
+[[files]]
 file = "config/createtweakedcontrollers-client.toml"
 hash = "c3bec50c5e4c13a3a4b8aaf821f5f9adf7d860fd739656504191e1794181c34c"
 
@@ -13,12 +17,16 @@ file = "config/defaultoptions/options.txt"
 hash = "28ed2dbff00fd9b73ab942e36a3cb050fcc6eba3f3ed4e8a216640a4f235f476"
 
 [[files]]
-file = "config/dynamicview.json"
-hash = "a5db8566e16c5ea6f503dfdc806ac6392d9a4761eebffd2baf70058f83fd2cd7"
-
-[[files]]
 file = "config/fml.toml"
 hash = "94393e50818ee0b56c9f33b0e2eaaa53f2623a81c63aa3bfb8ba6bf3bdb32530"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "072b03ce289c34fdbce0322f224f6a8baa6aae07874804f3dd538b2ace2337b9"
 
 [[files]]
 file = "config/lmft.json"
@@ -34,8 +42,20 @@ hash = "66aaca4482d0d8c7a1596861b65e9abde47441d4bd0a82f6f71510251f827f9c"
 metafile = true
 
 [[files]]
+file = "config/recipeessentials.json"
+hash = "80f1ae8517f9ba265ba0620bc701298cc95ae7b93fd5da23782ce56d1743f8ea"
+
+[[files]]
 file = "config/sebastrnlib-client.toml"
 hash = "ad66f214f945f5d0850f22b9f5df50e698e980781bb34539b63532055e8027fd"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "21ff2b2b51811676379129a7d9cc7a264391f5dd215711f524f1a202e397d062"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/tectonic.json"
@@ -44,6 +64,10 @@ hash = "ea44be71712cbad585fe349268e7f5dfb3aa123ef189acc74437547ef20fa5c6"
 [[files]]
 file = "config/vintageimprovements-client.toml"
 hash = "7c4520ec412b2bb9b44cee7ee85946239afb029e9f981fc4b5b0d16e53d12a85"
+
+[[files]]
+file = "defaultconfigs/embeddium-options.json"
+hash = "706495e3e83ba1759f421e0940a3f4fe9bc71756b95e2cd549e6b11b123e2139"
 
 [[files]]
 file = "defaultconfigs/emi.css"
@@ -457,11 +481,6 @@ hash = "8f7bf8cadef4581506eac1b8274ab9554ebad4e2a8ab63a5f9307fc93cff9353"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
-metafile = true
-
-[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "e43180891bf07ec4d9e1c855a1747b52a6bb6cac085f68e49574216c784d5cfb"
 metafile = true
@@ -664,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/leaky.pw.toml"
 hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
+metafile = true
+
+[[files]]
+file = "mods/limit-max-brightness.pw.toml"
+hash = "c88d4d6aec71b0d3859863a86b0102fb2a397f326612dc8df2c0d9024480bdae"
 metafile = true
 
 [[files]]

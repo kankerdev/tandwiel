@@ -1,0 +1,7 @@
+name = "limit-max-brightness"
+filename = "brightnessslider-forge-1.0-1.20.jar"
+
+[download]
+url = "https://packserve.kanker.dev/mods/forge/brightnessslider-forge-1.0-1.20.jar"
+hash-format = "sha256"
+hash = "bf49e60b23b845f42246d931a2ac18d175cf8d2c48b9655e3ea83be5a910f5d8"
