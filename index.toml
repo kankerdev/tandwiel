@@ -5,8 +5,16 @@ file = ".github/workflows/deploy.yaml"
 hash = "13d3e650010493cf47203361606d5d7d476d68e8d0337c3dd1470d839d5ac29a"
 
 [[files]]
+file = "config/createtweakedcontrollers-client.toml"
+hash = "c3bec50c5e4c13a3a4b8aaf821f5f9adf7d860fd739656504191e1794181c34c"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "28ed2dbff00fd9b73ab942e36a3cb050fcc6eba3f3ed4e8a216640a4f235f476"
+
+[[files]]
+file = "config/dynamicview.json"
+hash = "a5db8566e16c5ea6f503dfdc806ac6392d9a4761eebffd2baf70058f83fd2cd7"
 
 [[files]]
 file = "config/fml.toml"
@@ -30,12 +38,28 @@ file = "config/sebastrnlib-client.toml"
 hash = "ad66f214f945f5d0850f22b9f5df50e698e980781bb34539b63532055e8027fd"
 
 [[files]]
+file = "config/tectonic.json"
+hash = "ea44be71712cbad585fe349268e7f5dfb3aa123ef189acc74437547ef20fa5c6"
+
+[[files]]
+file = "config/vintageimprovements-client.toml"
+hash = "7c4520ec412b2bb9b44cee7ee85946239afb029e9f981fc4b5b0d16e53d12a85"
+
+[[files]]
+file = "defaultconfigs/emi.css"
+hash = "8d7e562af813db815af7a002a3fcdaae83ddce0eec5e45e29d8f7ec30405360c"
+
+[[files]]
 file = "defaultconfigs/exordium.json"
 hash = "0da1017d6c037690c9aeaf39e15796c933077c787072b4de65d658ae8084fcb8"
 
 [[files]]
 file = "defaultconfigs/oculus.properties"
 hash = "29c5056bfb1e3a2e1b496dd0c8c989126924765845bd8b4a98532914cd773e2b"
+
+[[files]]
+file = "defaultconfigs/sidebar_buttons.json"
+hash = "d7b3dd26f91f1950f4dc0477aa23be08440b496a77d5d5b5c4542f30a3a0ec95"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -923,6 +947,16 @@ hash = "f5747861dc48e31735ad764230b0dadb2d8c4e01c95a7cc70e37e2b4ad58ac25"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "0ca6f7c7a736b318e4165e4954e8bd39b183c45965bd596c8f1a2f948f7222e9"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "5077218f5a137152465214a9a35544a617902a50145055fd4bcee4121462c57b"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "ea3ab41c8e1346c6b78afef0ba8a00b3409705b2eecae716883882f12956d90d"
 metafile = true
@@ -930,6 +964,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "1fcb1bf91f4979cce47e56392cf9e3d30806bc0ff8aedc92b461272ecac8f8ca"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
 metafile = true
 
 [[files]]
