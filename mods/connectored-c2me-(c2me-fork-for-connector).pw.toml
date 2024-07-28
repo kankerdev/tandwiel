@@ -1,0 +1,13 @@
+name = "Connectored C2ME (C2ME fork for connector) (C3ME)"
+filename = "c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ov5T9Rht/versions/CuHuik2S/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
+hash-format = "sha1"
+hash = "fa56d635562eeb25b4b9c310c3f9572075530f4d"
+
+[update]
+[update.modrinth]
+mod-id = "Ov5T9Rht"
+version = "CuHuik2S"
