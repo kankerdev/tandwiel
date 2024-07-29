@@ -29,8 +29,8 @@ file = "config/ftbxmodcompat.snbt"
 hash = "072b03ce289c34fdbce0322f224f6a8baa6aae07874804f3dd538b2ace2337b9"
 
 [[files]]
-file = "config/item_obliterator.json55"
-hash = "fe70198f4995fa9d0ae7ceeb476e939bba6233f278c81efcfd6171aace6f7731"
+file = "config/item_obliterator.json5"
+hash = "398008169bf2406bb73bddc8a84b022470e2ec6deda258b254893fbe55600d31"
 
 [[files]]
 file = "config/lmft.json"
