@@ -1,13 +1,13 @@
 name = "CTOV - Croptopia compat"
-filename = "ctov-croptopia-compat-2.0.jar"
+filename = "ctov-croptopia-compat-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5cWrW4FI/versions/bx12kDBE/ctov-croptopia-compat-2.0.jar"
+url = "https://cdn.modrinth.com/data/5cWrW4FI/versions/kHv1AnGt/ctov-croptopia-compat-2.2.jar"
 hash-format = "sha1"
-hash = "a43f548110491e8882b1a80f7710cf10adaeaa8f"
+hash = "1d47de1b53a484acbe3988cc43ecc3dc723b2778"
 
 [update]
 [update.modrinth]
 mod-id = "5cWrW4FI"
-version = "bx12kDBE"
+version = "kHv1AnGt"

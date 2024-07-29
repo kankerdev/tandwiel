@@ -166,6 +166,11 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "71d9fa13271f1c96b9c00f8a52b5d370134053bcd1d26223362e9970d1358e10"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-garnished.pw.toml"
-hash = "1e2a6f829135ac4f01c1ecc1a143577038508bc8f4826cb09ea96a3a75a0ab99"
+hash = "2e968317a3867787f18323e977d1db597c8b3410881e08c77aa35c6ca9892ac9"
 metafile = true
 
 [[files]]
@@ -432,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctov-croptopia-compat.pw.toml"
-hash = "6f513e0bcbb95bc89206488ded18c1d1491e43fc35ceca97caaa3c6e1b8b86f2"
+hash = "fce116199cff6917c81c9d6e49d8592f98de8327067e8330474a05850227aca6"
 metafile = true
 
 [[files]]
@@ -592,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/garnished-kubejs.pw.toml"
-hash = "fb795c0bae88952074322818ce96433cd50f374bcd3a9e4ddb660c93208ee0e7"
+hash = "2f46c15da18a3cb7d9f610b04a640fd7a6c41bd37dbad3e300214202a9a4f983"
 metafile = true
 
 [[files]]
@@ -647,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3514e10db21d24903c95dd1f551b91ae77a957400ae788393aa8100f2f7f88d0"
+hash = "0ddae708f91ebbeb5fa3b46e024252de324f503fc806d9481bcdc92dd77f5276"
 metafile = true
 
 [[files]]
@@ -686,14 +691,13 @@ hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
 metafile = true
 
 [[files]]
-file = "mods/limit-max-brightness.pw.toml"
-hash = "c88d4d6aec71b0d3859863a86b0102fb2a397f326612dc8df2c0d9024480bdae"
-metafile = true
-
-[[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "ec4a1d920bd1b52bc31dc6546870bee92e450a4d6accfcd6cf96fd6b6f594be9"
 metafile = true
+
+[[files]]
+file = "mods/lmb-kkrdev.toml"
+hash = "c8e8a1507fbcff1297e7c14c531e89cab92c544c9606ad80c42933eab9957a9c"
 
 [[files]]
 file = "mods/lmd.pw.toml"
@@ -773,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1c99abbea7021a74d4fc8393b2dfe83516dd91a460fa2644236a5dda77eeab49"
+metafile = true
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "804671dca87c6298bfd9ae10304ed0caa7f94bcfc2fecce6f00aad6298ab7b4b"
 metafile = true
 
 [[files]]
@@ -957,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "4104cf1df2251359e548b8799cbf42c1517b3e435c8f42dee3546ebc67f9146a"
+hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
 metafile = true
 
 [[files]]
