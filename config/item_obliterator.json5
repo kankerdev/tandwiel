@@ -16,7 +16,6 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   blacklisted_items: [
-    "!immersiveengineering:(armor_piercing|buckshot|casull|chemthrower|dragons_breath|he|homing|potion|silver|flare|firework|wolfpack|firework)",
     "!immersiveengineering:(railgun|revolver)",
     "!immersiveengineering:gunpart_.*",
     "!immersiveengineering:toolupgrade_(railgun|revolver|chemthrower)_.*",
@@ -24,10 +23,7 @@
     "!protection_pixel:pneumatic.*",
     "!tfmg:.*_grenade",
     "!thermal:.*_grenade",
-    "immersiveengineering:casull",
     "immersiveengineering:mold_bullet_casing",
-    "immersiveengineering:silver",
-    "immersiveengineering:speedloader",
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

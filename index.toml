@@ -30,7 +30,7 @@ hash = "072b03ce289c34fdbce0322f224f6a8baa6aae07874804f3dd538b2ace2337b9"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "b9735c9a34219c790e148b11371e2cc0fed995cdc8fd9830014902d1e9596e82"
+hash = "83c987b00f51eea1ee79bd7ee787c94cc883d6fa10663ccb92d72abff9941aab"
 
 [[files]]
 file = "config/lmft.json"
