@@ -16,12 +16,14 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   blacklisted_items: [
+    "!immersiveengineering:(casull|armor_piercing|buckshot|he|silver|dragons_breath|potion|flare|firework|homing|wolfpack)"
     "!immersiveengineering:(railgun|revolver)",
     "!immersiveengineering:gunpart_.*",
     "!immersiveengineering:toolupgrade_(railgun|revolver|chemthrower)_.*",
     "!immersiveengineering:turret_.*",
     "!protection_pixel:pneumatic.*",
     "!tfmg:.*_grenade",
+    "!tfmg:napalm_.*",
     "!thermal:.*_grenade",
     "immersiveengineering:mold_bullet_casing",
   ],
