@@ -30,7 +30,7 @@ hash = "072b03ce289c34fdbce0322f224f6a8baa6aae07874804f3dd538b2ace2337b9"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "b43a2243a858c7e6ff6dbfbed2796e015c38cbf1db038ed346f2bbfcae421425"
+hash = "06f2cbc84b0035747f4ef9a1bcf7837766dd68494c7aa842d57a13019e76d186"
 
 [[files]]
 file = "config/lmft.json"
@@ -172,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "71d9fa13271f1c96b9c00f8a52b5d370134053bcd1d26223362e9970d1358e10"
+metafile = true
+
+[[files]]
+file = "mods/boat-break-fix.pw.toml"
+hash = "9a6877eb85be1290a0eb73fb7ce74993de3434ca7cbb81a23e041c4598677731"
 metafile = true
 
 [[files]]
