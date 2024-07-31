@@ -923,6 +923,11 @@ hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
+metafile = true
+
+[[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "36e121a8bc2e3eda2f81ec633f89d158f5874dfd47c71c0d8867bad61e8cba28"
 metafile = true
