@@ -154,6 +154,11 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "f55e5e7759f12529a791563d10c9cebdd6148c9a79c98204980940420563f8a0"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "e0c50da644fc51795e73212c7b2a5568a46e5f2055ee4c73d25352a7d968abd4"
 metafile = true
 
 [[files]]
@@ -704,8 +714,18 @@ hash = "5e230866dc19780bb210b74134d840440fa092a85f6153e816610ade692d136e"
 metafile = true
 
 [[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "b84c0438797762c78bd3e369f6f10e34877ac7de8d7ef32c2239be4ca6716e1a"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "caf6ebb82f628ece3e2ee9a0a98ac6c001dd2385b2b4daaea48fbdf0e393003b"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "51d1a105e145b363c163a85b1d36a676dce5559e8d73d979425e224bf53639a1"
 metafile = true
 
 [[files]]
