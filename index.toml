@@ -274,6 +274,11 @@ hash = "f55e5e7759f12529a791563d10c9cebdd6148c9a79c98204980940420563f8a0"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
+metafile = true
+
+[[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "e0c50da644fc51795e73212c7b2a5568a46e5f2055ee4c73d25352a7d968abd4"
 metafile = true
