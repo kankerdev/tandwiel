@@ -11,3 +11,8 @@ hash = "27410903d3af950378776106b76503cfebe7ea3a"
 [update.modrinth]
 mod-id = "GchcoXML"
 version = "vVuYfukI"
+
+[option]
+optional = true
+default = true 
+description = "Adds the capability to run shaders to *The Game*.\n\nWARNING: Enabling any Shader will disable Flywheel! Without Flywheel Create Contraptions might become buggy or incredibly slow and can cause significant FPS lag when to many moving contraptions are on the screen!"
