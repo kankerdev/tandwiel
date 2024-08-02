@@ -1,0 +1,13 @@
+name = "UnlimitedPeripheralWorks"
+filename = "peripheralworks-forge-1.20.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/QtN8MXjF/peripheralworks-forge-1.20.1-1.4.3.jar"
+hash-format = "sha1"
+hash = "a5aff6d25ad88e4f76ecb85db4a3b74dad20fa6a"
+
+[update]
+[update.modrinth]
+mod-id = "Sf7QBsRP"
+version = "QtN8MXjF"

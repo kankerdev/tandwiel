@@ -9,6 +9,10 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "5e8063bc20d6652022fbeee40031874ea7d44971fe397aee92de678c75a0ac78"
 
 [[files]]
+file = "config/ae2/client.json"
+hash = "abc7e3fe7a771ba19bc86bd9e272e69296fbdac2e2a160ba43c5ff01f80cbe8c"
+
+[[files]]
 file = "config/createtweakedcontrollers-client.toml"
 hash = "c3bec50c5e4c13a3a4b8aaf821f5f9adf7d860fd739656504191e1794181c34c"
 
@@ -60,6 +64,10 @@ hash = "21ff2b2b51811676379129a7d9cc7a264391f5dd215711f524f1a202e397d062"
 [[files]]
 file = "config/servercore/optimizations.yml"
 hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
+
+[[files]]
+file = "config/storagedrawers-client.toml"
+hash = "736fc5f12652df020ddc3e85c45d4e489f80af0a6ed9deb5d9952602193e5d0d"
 
 [[files]]
 file = "config/tectonic.json"
@@ -554,13 +562,28 @@ hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "8abf1256f66e369ab03f3e4a46c235eb9a4a2ebeeaf9393a810a649592f8b0dc"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "3d392f4802461d6473de7836ec3b44fe7bef954832c8315135530be5519f647d"
+metafile = true
+
+[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "8effcad9240bc895c1e01f0b0c7d5ad0a9873599ef6ee890419722f4f70c3c30"
 metafile = true
 
 [[files]]
@@ -636,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "800421ac8a23d1a441a1af31747a5742b370e2a2ccbeaf9e498c7b6fc66cbb6e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "6d4a92463401c5452fd11c1f71f7b049b3564b1f53f69a74b54302e981415465"
 metafile = true
 
 [[files]]
@@ -943,6 +971,16 @@ hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "04f467b8d5cd3214ef625f3bde059d165b5852d41da54bdd30aca4ce6bd1b681"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "1193e637f80901dff66079c25cc7c413db9cc9e7f7d8c28e680dddaaff6cbd23"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
 metafile = true
@@ -950,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "36e121a8bc2e3eda2f81ec633f89d158f5874dfd47c71c0d8867bad61e8cba28"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
 
 [[files]]
@@ -1078,6 +1121,11 @@ hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "08e8afaae636ca5c4a3aebdfd5a8bdbec8e3358cc2ee3ed9484444d792a1fc72"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
 metafile = true
@@ -1120,6 +1168,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "b42620e140806002171a15aba47135e0279d9012ac14d144cc659508b943e91f"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "49ba7e27c97db6008563247059e392347b8ad0e7c7676c102a2b16f9a2d4c2a7"
 metafile = true
 
 [[files]]
@@ -1185,4 +1238,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "5b5fdfaf8e757e4f54e621aca1c52f5d8c90c7be3bc78c2978173326f5c02bf5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pretty-pipez.pw.toml"
+hash = "9a44edfd94eb0874c590b7568132968d45a6179ec61bf1f9da5fc22efa40fae4"
 metafile = true
