@@ -11,3 +11,8 @@ hash = "ed83455065193f0630450830c11ecd738ec231f9"
 [update.modrinth]
 mod-id = "QAGBst4M"
 version = "z0kHAGDv"
+
+[option]
+optional = true
+default = true
+description = "Description W.I.P."
