@@ -132,6 +132,11 @@ hash = "e794a0240ad915c2c8e43a04e6dfded947bf11f3895533dce2e6114cb250f373"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "34a97d2567ff613154641a0b0dace49c4f151e8525fb4a47818cba78a3f08063"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "03fa352715705a0354e049b4fe0b3fab7772476134cd3393e343811c2862d13b"
 metafile = true
@@ -677,6 +682,11 @@ hash = "1e17d92e2843cdb01a229d4987b0ef456c8a759d1e02e18f5265fd8179cbf7c2"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
+metafile = true
+
+[[files]]
 file = "mods/garnished-kubejs.pw.toml"
 hash = "2f46c15da18a3cb7d9f610b04a640fd7a6c41bd37dbad3e300214202a9a4f983"
 metafile = true
@@ -996,6 +1006,21 @@ hash = "0d516801c152c9eeaf0ecb4b2746488b16bdfbdec5bfaacf29750ad3c6dcac6a"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-ae2.pw.toml"
+hash = "c8edb578967777368c655d66a10b1cf7552dad4b443b50ac90c70807bfb81448"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "95cb627d4f6ac64e0482ad359f0fb9cfa0c1abe248370d61bc2a520d2b8c665c"
+metafile = true
+
+[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "30b5bc2384a127d2ec6ad93125d7f6bbc8c93bc8db2a441c009cf067884fd2b9"
 metafile = true
@@ -1123,6 +1148,16 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "08e8afaae636ca5c4a3aebdfd5a8bdbec8e3358cc2ee3ed9484444d792a1fc72"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
 metafile = true
 
 [[files]]
