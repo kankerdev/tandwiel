@@ -85,6 +85,11 @@ hash = "99de2f391560e1a38cba9294c2b8a6ea6315193b32acc9b947f4d542b8f88623"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/treeplacer-terralith-addon.pw.toml"
+hash = "cb241fd02e4f022dd7fe4ed63242a5729a8a5e8e9372c46b43df283d485c6cb0"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/sparkles.pw.toml"
 hash = "96c0db2b8aacc7a0f7fded0ce0dedb6fb98ed359a857cc09768fed90bec2916e"
 metafile = true
@@ -1213,6 +1218,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "b42620e140806002171a15aba47135e0279d9012ac14d144cc659508b943e91f"
+metafile = true
+
+[[files]]
+file = "mods/treeplacer.pw.toml"
+hash = "e5d8d740daf868a636471204b27578e6156812c8311cd02bd455188be92dee7b"
 metafile = true
 
 [[files]]
