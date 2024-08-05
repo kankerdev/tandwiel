@@ -7,7 +7,7 @@ url = "https://cdn.modrinth.com/data/Ys1mdL6V/versions/YIKSFAfG/Treeplacer%20Ter
 hash-format = "sha1"
 hash = "701acc8a321acff3038f18dac6d1786d93a280da"
 
-[update]
-[update.modrinth]
-mod-id = "Ys1mdL6V"
-version = "YIKSFAfG"
+# [update]
+# [update.modrinth]
+# mod-id = "Ys1mdL6V"
+# version = "YIKSFAfG"
