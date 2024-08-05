@@ -11,8 +11,3 @@ hash = "85a5ef77f8bfe6f6b9dad9c94912252849d3dc2a"
 [update.modrinth]
 mod-id = "4I1XuqiY"
 version = "7Jih1uiK"
-
-[option]
-optional = true
-default = true
-description = "Description W.I.P."
