@@ -1,0 +1,8 @@
+name = "nullscape"
+filename = "Nullscape_120_v127.zip"
+side = "server"
+
+[download]
+url = "https://www.stardustlabs.net/s/Nullscape_120_v127.zip"
+hash-format = "sha256"
+hash = "7c4a403778562a511f2d30fc983d46970298343275a3d194048af1fd163634ea"

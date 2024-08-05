@@ -1,0 +1,8 @@
+name = "structory"
+filename = "Structory_120_v135.zip"
+side = "server"
+
+[download]
+url = "https://www.stardustlabs.net/s/Structory_120_v135.zip"
+hash-format = "sha256"
+hash = "f84a6cece9c2f63ba343cdf1dce8f7d29dc02b9c850111ea42a7de8a29b4046d"

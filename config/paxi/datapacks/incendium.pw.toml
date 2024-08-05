@@ -1,0 +1,8 @@
+name = "incendium"
+filename = "Incendium_120_v535.zip"
+side = "server"
+
+[download]
+url = "https://www.stardustlabs.net/s/Incendium_120_v535.zip"
+hash-format = "sha256"
+hash = "0680feedf9c8791d13330580709eff7df3183a47864c834610e94c6e27b6c2e2"

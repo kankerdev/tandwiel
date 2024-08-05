@@ -45,8 +45,48 @@ file = "config/memorysettings.json"
 hash = "02eea50096b1089158dcab8be738a166dabc5c8e44ca029099da9d8f290ef23a"
 
 [[files]]
+file = "config/paxi/datapacks/amp-nether.pw.toml"
+hash = "63290608464ad68b8f00c64a85f356678880671c23d2ac887fa33b64ccb26a1c"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/disable-ad-astra-oil-wells.pw.toml"
 hash = "66aaca4482d0d8c7a1596861b65e9abde47441d4bd0a82f6f71510251f827f9c"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/incendium.pw.toml"
+hash = "2eccc40700af40d29f7d972759077fe8abad2802824fae5433dcc0603103e4d8"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/nullscape.pw.toml"
+hash = "46c03443117537b404d606442b7cbc07018b1e673dbf90e6ebc4edf0ba5dc37c"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/structory-towers.pw.toml"
+hash = "ca13915d3816180675d1b9f9839fb7272e3d0ea2d4a3de33d5ccc88c9e8eef60"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/structory.pw.toml"
+hash = "8fe2cc20b309ebc34fe72066687618579c8a0261ac857f509210fabe62a18d6d"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/terralith.pw.toml"
+hash = "88bc78edcf51a476c7ef4dea5f0e488b4babe928877ccdac510b4fc9952cf23d"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/terratonic.pw.toml"
+hash = "99de2f391560e1a38cba9294c2b8a6ea6315193b32acc9b947f4d542b8f88623"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/sparkles.pw.toml"
+hash = "96c0db2b8aacc7a0f7fded0ce0dedb6fb98ed359a857cc09768fed90bec2916e"
 metafile = true
 
 [[files]]
@@ -134,11 +174,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "34a97d2567ff613154641a0b0dace49c4f151e8525fb4a47818cba78a3f08063"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "03fa352715705a0354e049b4fe0b3fab7772476134cd3393e343811c2862d13b"
 metafile = true
 
 [[files]]
@@ -647,6 +682,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "1b2f9e73000e34cd636f05ca351ebd59affdc976a9746a310b0799fd20beea34"
 metafile = true
@@ -719,11 +759,6 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "3b81ebee6bc906cafb94a30b77583b865c1a88ad4bdfb0e9fb3555c9577f136a"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
@@ -961,11 +996,6 @@ hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "8d93d1db086d63d10edb0a3ad6926aeb6e6aab8985ff3a7eac1ec313ebce4420"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "8acc4d7e26144ea86c6a84a693fef1c56cf5d7f9f4f21c354f169aadad6fcecd"
 metafile = true
@@ -1131,16 +1161,6 @@ hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
@@ -1158,16 +1178,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]

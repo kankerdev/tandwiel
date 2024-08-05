@@ -1,0 +1,8 @@
+name = "terralith"
+filename = "Terralith_120_v254.zip"
+side = "server"
+
+[download]
+url = "https://www.stardustlabs.net/s/Terralith_120_v254.zip"
+hash-format = "sha256"
+hash = "f6822d4dc50c7e8e4d3dc0a7700c623a6de9a9df723a1b6c23075a5b2df860cc"

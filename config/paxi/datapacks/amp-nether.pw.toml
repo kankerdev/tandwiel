@@ -1,0 +1,8 @@
+name = "amp-nether"
+filename = "Amplified_Nether_120_v125.zip"
+side = "server"
+
+[download]
+url = "https://www.stardustlabs.net/s/Amplified_Nether_120_v125.zip"
+hash-format = "sha256"
+hash = "961bb26005ed20804ce444c8e2e19a84a569b327be26d53ab800a9f68ed87517"
