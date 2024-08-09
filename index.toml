@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-vintage-improvements.pw.toml"
-hash = "76e4faacf87e1789d03abff467a09e65c55a9a67e2a28539f672f3822ba6d614"
+hash = "a67f9f5d4fe8a975c7a83769f6d1b8d8a515a64725ff10a10df17416fd272ecd"
 metafile = true
 
 [[files]]
@@ -801,11 +801,6 @@ hash = "3b81ebee6bc906cafb94a30b77583b865c1a88ad4bdfb0e9fb3555c9577f136a"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
-metafile = true
-
-[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "b54bcb74269ae5750d55f26cf890871fcc5b0184f8feacee2a5de4af65036818"
 metafile = true
@@ -842,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d7a961cf71112629c163f53cb52f4bc3affb3dde5939414f2a4f114eee931dda"
+hash = "051966f47d3aa9c6e9ae49f8fc659183172c6efa160b2766596b5e0b34a7f4f0"
 metafile = true
 
 [[files]]
