@@ -436,6 +436,11 @@ hash = "75c295073f2108572803ff4c171a90ccf1926c6a69793aa0cc18a041fa4e14c5"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "af5c8f59736b21dc2f07a0af47cca02db411c7b5f5403318cca657772a5342a3"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "7641de036f97e5ffa27fb065ed439f5b0b6df11d3091db9b54628c185dc86927"
 metafile = true
